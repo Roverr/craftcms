@@ -26,11 +26,10 @@ services:
         yiisoft/yii2-redis,
         craftcms/redactor,
 
-      CRAFTCMS_EMAIL: harald@urbantrout.io
+      CRAFTCMS_EMAIL: info@riltech.solutions
       CRAFTCMS_USERNAME: admin
-      CRAFTCMS_PASSWORD: super-secret-password
+      CRAFTCMS_PASSWORD: macilaci666
       CRAFTCMS_SITENAME: Craft CMS Installation
-      CRAFTCMS_LANGUAGE: de-AT
 
       REDIS_HOST: redis
       SESSION_DRIVER: redis
